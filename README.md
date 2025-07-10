@@ -15,7 +15,7 @@ Aqui você encontrará dashboards interativos e modelos de dados desenvolvidos p
 
 Cada pasta neste repositório contém um projeto de análise de ações específico. Clique na pasta de cada projeto para ver seu `README.md` detalhado e o arquivo `.pbix` do Power BI.
 
-* **[VALE3 - Análise de Cotações]** (https://github.com/DiegoIccosta/analise-acoes-powerbi/blob/main/Dashboard_VALE3_Analise_Cotacoes.pbix)
+* **[VALE3 - Análise de Cotações]** ([https://github.com/DiegoIccosta/analise-acoes-powerbi/blob/main/Dashboard_VALE3_Analise_Cotacoes.pbix](https://github.com/DiegoIccosta/analise-acoes-powerbi/tree/main/VALE3_Dashboard))
     * *Descrição:* Dashboard de acompanhamento de preços de fechamento, volume e variação percentual diária da ação VALE3.
 
 ## Sobre Mim:
