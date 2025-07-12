@@ -17,6 +17,11 @@ Cada pasta neste repositório contém um projeto de análise de ações específ
 
 * **[VALE3 - Análise de Cotações]** ([https://github.com/DiegoIccosta/analise-acoes-powerbi/blob/main/Dashboard_VALE3_Analise_Cotacoes.pbix](https://github.com/DiegoIccosta/analise-acoes-powerbi/tree/main/VALE3_Dashboard))
     * *Descrição:* Dashboard de acompanhamento de preços de fechamento, volume e variação percentual diária da ação VALE3.
+ 
+  ### 📈 Análise Fundamentalista - VALE3
+
+* **Descrição:** Dashboard interativo em Power BI para análise da saúde financeira e desempenho fundamentalista da VALE3 (Vale S.A.), utilizando demonstrativos financeiros (DRE, BP, DFC) e indicadores chave. Inclui tendências de receita, lucro, margens e endividamento.
+* **Link para o Projeto:** [Acessar Análise Fundamentalista - VALE3](https://github.com/DiegoIccosta/analise-acoes-powerbi/tree/main/VALE3_Analise_Fundamentalista)
 
 ## Sobre Mim:
 
